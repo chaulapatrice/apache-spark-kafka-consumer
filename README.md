@@ -3,7 +3,7 @@
 ## Run dagster
 
 ```
-docker-compose up
+docker compose up
 ```
 
 ## Start consumers
