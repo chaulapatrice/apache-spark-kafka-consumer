@@ -1,0 +1,12 @@
+dbt_upcoming_launches:
+  outputs:
+    dev:
+      dbname: launch_api
+      host: db
+      pass: Secret0
+      port: 5432
+      schema: upcoming_launches
+      threads: 1
+      type: postgres
+      user: launch_api
+  target: dev

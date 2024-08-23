@@ -1,0 +1,1 @@
+SELECT * FROM upcoming_launches_to_moon

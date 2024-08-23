@@ -1,0 +1,7 @@
+.env
+raccoon_dashboard.egg-info
+build
+venv
+*.pyc
+tmp*
+
